@@ -8,18 +8,18 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Luiz Felipe Pereira Guimarães
+- Matricula: 925588
+- Proposta de projeto escolhida: Projeto sobre a formula 1
+- Breve descrição sobre seu projeto:Quero fazer um projeto sobre a formula 1, onde pessoas que não entendem sobre consigam aprender sobre esse esporte; debater e entender como funciona o campeoato, as equipes, e saber um pouco de cada equipe atual do grid.
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![HomePageBootstrap](imgs/HomePageBootstrap.png)
 
 ## Print da versão responsiva com Bootstrap [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+[HomePageBootstrapMobile](imgs/HomPageBootstrapMobile.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
